@@ -1,1 +1,1 @@
-# SNA_Editor_Public
+# SNA Editor (Public version) installation file
